@@ -25,9 +25,9 @@ notebooks:
     path: /notebooks/GWAS_initial_analysis_blank.ipynb
     publish: true
     # SEAB-6423, commenting out for now.
-    #  - name: GWASInitialAnalysisCompleted
-    #    path: /notebooks/GWAS_initial_analysis_completed.ipynb
-    #    publish: true
+  - name: GWASInitialAnalysisCompleted
+    path: /notebooks/GWAS_initial_analysis_completed.ipynb
+    publish: true
   - name: SomaticCNATutorial
     path: /notebooks/Somatic-CNA-Tutorial.ipynb
     publish: true
